@@ -10,4 +10,4 @@
 
 # Hướng dẫn sử dụng
 1. Cài đặt thư viện
-  - pip install -r requirements.txt
+    - pip install -r requirements.txt
