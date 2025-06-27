@@ -11,3 +11,14 @@
 # Hướng dẫn sử dụng
 1. Cài đặt thư viện
     - pip install -r requirements.txt
+2. Tạo dữ liệu
+    - Chạy file Create data .py để tạo dữ liệu khuôn mặt từ ảnh có sẵn trong thư mục data hoặc webcam.
+    - Lưu ý đường dẫn.
+3. Huấn luyện mô hình
+    - Chạy file train.py để huấn luyện mô hình và lưu file khuonmat.h5.
+4. Nhận diện khuôn mặt
+    - Chạy file Display.py để nhận diện khuôn mặt trên ảnh test.
+
+# Thông tin liên hệ
+- Họ tên: Nguyễn Huy Hải Ninh
+- Email: huyninh00@gmail.com
