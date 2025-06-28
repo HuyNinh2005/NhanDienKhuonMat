@@ -19,6 +19,3 @@
 4. Nhận diện khuôn mặt
     - Chạy file Display.py để nhận diện khuôn mặt trên ảnh test.
 
-# Thông tin liên hệ
-- Họ tên: Nguyễn Huy Hải Ninh
-- Email: huyninh00@gmail.com 
